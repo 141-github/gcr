@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/example-guestbook-php-redis:v3
-
+FROM gcr.io/velero-gcp/velero-restic-restore-helper:v1.9.5
